@@ -28,4 +28,4 @@ ImageTagger is a CLI Java application that makes use of Google cloud vision to a
 
 The cloud function is no longer deployed and the repository does not include authorization details that are necessary to run the application.
 
-Also, this is only a proof-of-concept that currently overwrites all previous XMP & IPTC metadata from photos! To prevent overwriting critical data, the application creates a copy of each tagged pgoto.
+Also, this is only a proof-of-concept that currently overwrites all previous XMP & IPTC metadata from photos! To prevent overwriting critical data, the application creates a copy of each tagged photo.
