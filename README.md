@@ -2,7 +2,7 @@
 
 A practice project created for Jyväskylä University course "SOA and cloud computing"
 
-ImageTagger is a CLI Java application that makes use of Google cloud vision to automatically tag photos based on their content.
+ImageTagger is a CLI application that uses Google cloud vision to automatically tag locally saved photos based on their content.
 
 ### Main features:
 
